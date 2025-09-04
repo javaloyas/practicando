@@ -1,0 +1,16 @@
+
+div{
+    margin: 10;
+    padding: 20;
+    display: block;
+    background-color: rgb(199, 215, 23);
+}
+span {
+    background-color: rgb(107, 81, 180);
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+    list-style-type: none;
+    text-align: center;
+    margin: 10px 10px;
+}
